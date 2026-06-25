@@ -13,6 +13,16 @@ module.exports = {
   organizationName: 'Kartaverse',
   projectName: 'vfxpedia',
 
+  // Markdown configuration
+  markdown: {
+    hooks: {
+      onBrokenMarkdownImages: () => {
+        // Ignore broken markdown image errors
+        return;
+      }
+    }
+  },
+
   themeConfig: {
     navbar: {
       title: 'VFXPedia',
