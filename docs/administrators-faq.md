@@ -121,7 +121,7 @@ Fusion 6.4 expands the places where you can append custom menu items. For exampl
 
 You can also add menu items to the context menus of input or preview controls, to different sections of the interface (views) and the bins. The required keywords can be listed by typing something like this in the console:
 
-```
+```lua
 for k,v in fu:GetRegList(CT_View) do print(v.ID) end
 --[[ note: not all of them have context menus
 FlowView
