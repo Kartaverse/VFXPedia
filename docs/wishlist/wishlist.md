@@ -8,11 +8,11 @@ Requests can also be submitted to [requests@eyeonline.com](mailto:requests@eyeon
 
 ## Categories
 
-### [General](http://96.0.243.189/index.php?title=Wishlist/General)
+### [General](./wishlist-general.md)
 
 All requests for major new features or other overall improvements.
 
-### [File Formats](http://96.0.243.189/index.php?title=Wishlist/File_Formats)
+### [File Formats](./wishlist-file-formats.md)
 
 Requests for support of any type of file - image, 3D, LUT etc.
 
