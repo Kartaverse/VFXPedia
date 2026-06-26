@@ -22,6 +22,7 @@ In a new terminal window, navigate to the location where you downloaded the VFXP
 
 ```bash
 cd $HOME/Documents/Git/VFXPedia/
+npm install
 npm start
 ```
 
