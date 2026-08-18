@@ -5,7 +5,7 @@ module.exports = {
   title: 'VFXPedia',
   tagline: 'A central resource for visual effects artists',
   url: 'https://kartaverse.github.io',
-  baseUrl: 'VFXPedia/',
+  baseUrl: '/VFXPedia/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
