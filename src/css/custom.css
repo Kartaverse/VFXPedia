@@ -80,9 +80,20 @@
 
 /* ---- Global Styles ---- */
 body {
-  background: var(--ifm-background-color);
-  color: #000;
-  font-size: 14px;
+background: var(--ifm-background-color);
+color: #000;
+font-size: 16px;
+}
+
+pre {
+	border: 1px dashed var(--ifm-color-emphasis-500);
+	border-radius: 8px;
+	line-height: 1.3em;
+	padding: 1em;
+}
+
+code, pre {
+	background-color: #ffba0014;
 }
 
 [data-theme='dark'] body {
