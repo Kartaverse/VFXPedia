@@ -80,9 +80,9 @@
 
 /* ---- Global Styles ---- */
 body {
-background: var(--ifm-background-color);
-color: #000;
-font-size: 16px;
+  background: var(--ifm-background-color);
+  color: #000;
+  font-size: 16px;
 }
 
 pre {
